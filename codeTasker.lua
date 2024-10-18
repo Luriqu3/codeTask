@@ -1,6 +1,10 @@
-UI.Label("discord: riquezerah")
 warn("acabou seu tempo")
-
+UI.Label("discord: riquezerah")
+UI.Label("discord: riquezerah")
+UI.Label("discord: riquezerah")
+UI.Label("discord: riquezerah")
+UI.Label("discord: riquezerah")
+UI.Label("discord: riquezerah")
 
 
 
